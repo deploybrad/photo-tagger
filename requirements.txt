@@ -1,0 +1,10 @@
+dlib==19.24.4
+exif==1.6.0
+ExifRead==3.0.0
+numpy==1.26.4
+opencv-python-headless==4.9.0.80
+pillow==10.3.0
+plum-py==0.8.7
+psycopg2==2.9.9
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
